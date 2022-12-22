@@ -10,3 +10,8 @@
 For each one of these problems, I will implement two predictive modeling solutions: one static solution and another solution that adapts through time.
   - Dataset Used IOT Botnet Attack detection dataset
   - Tools: Kafka-python, Sklearn, Matplotlib, Numpy, Pandas
+
+**Computer Vision**:
+- [Face Recognition](https://colab.research.google.com/drive/1O1Ne1-X7ho2OJc0ZJjMVPJX3_Ym1V_-r) | [github link](https://github.com/kamel-elsehly/Face_Recognition-): a simple project to train a face_recognition model on some persons giving some photos form different perespective then, it simulates how a security face recognition system works.
+  - Dataset Used: collected photos from google of different public figures
+  - Tools: Face_recognition, cv2, os 
