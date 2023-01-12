@@ -18,6 +18,7 @@ For each one of these problems, I will implement two predictive modeling solutio
 - [Emotion Detection](https://colab.research.google.com/drive/1xWS9JW0eLXX9OFYdKpnCSjI7JG3f0GGr?usp=sharing) | [github link](https://github.com/kamel-elsehly/Emotion-Detection): Lite Application for live Emotion Detection using simple deep CNN *facebook deepface* library with other options like estimating Gender, Age and Race
   - Dataset Used: [Labled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
   - Tools: deepface, cv2, numpy
-- [Arabic Documents OCR](https://colab.research.google.com/drive/1WhX7j4Hudv9TICfNobmsbpGrw7ei59nR#scrollTo=Uwatr23mD2zH) |[github link](https://github.com/kamel-elsehly/Arabic-Documents-OCR)
+- [Arabic Documents OCR](https://colab.research.google.com/drive/1WhX7j4Hudv9TICfNobmsbpGrw7ei59nR#scrollTo=Uwatr23mD2zH) | [github link](https://github.com/kamel-elsehly/Arabic-Documents-OCR)
+  - Dataset Used: Tested on Random Arabic Documents from Google
   - Tools: easyOCR, python-bidi, PIL 
 
