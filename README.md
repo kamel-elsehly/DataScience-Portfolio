@@ -10,6 +10,10 @@
 For each one of these problems, I will implement two predictive modeling solutions: one static solution and another solution that adapts through time.
   - Dataset Used: IOT Botnet Attack detection dataset
   - Tools: Kafka-python, Sklearn, Matplotlib, Numpy, Pandas
+- [Vodafone Spectrum Utilization Analysis](https://github.com/kamel-elsehly/Vodafone-Spectrum-Utilization-Optimization) : uOttawa Graduation project, mentored by Vodafone, this project is to optimize the utilization of spectrum by analyzing the SPEECH and DATA traffic, I Applied clustering to most correlated traffic then an LSTM model to analyze the behavior of the cells and predict the needed spectrum for future.  
+  - Dataset Used: Cells traffic by Vodafone 
+  - Tools: numpy, pandas, matplotlib.pyplot, keras, MinMaxScaler, seaborn, nltk, tensorflow
+
 
 **Computer Vision**:
 - [Face Recognition](https://colab.research.google.com/drive/1O1Ne1-X7ho2OJc0ZJjMVPJX3_Ym1V_-r) | [github link](https://github.com/kamel-elsehly/Face_Recognition-): a simple project to train a face_recognition model on some persons giving some photos from different perspective then, it simulates how a security face recognition system works.
@@ -21,4 +25,3 @@ For each one of these problems, I will implement two predictive modeling solutio
 - [Arabic Documents OCR](https://colab.research.google.com/drive/1WhX7j4Hudv9TICfNobmsbpGrw7ei59nR#scrollTo=Uwatr23mD2zH) | [github link](https://github.com/kamel-elsehly/Arabic-Documents-OCR)
   - Dataset Used: Tested on Random Arabic Documents from Google
   - Tools: easyOCR, python-bidi, PIL 
-
